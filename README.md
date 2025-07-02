@@ -25,8 +25,7 @@ A Dropshipping Analyser built with Next.js 14 App built to consume AI-powered in
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/trendops-ui.git
-cd trendops-ui
+git clone https://github.com/rainerhamal/trend-dropship-analyser.git
 
 npm install
 # or
